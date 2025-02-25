@@ -1,0 +1,9 @@
+venv
+__pycache__
+
+data
+uploads
+utils
+
+.env
+env
