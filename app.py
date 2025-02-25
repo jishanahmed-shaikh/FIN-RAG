@@ -21,15 +21,18 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
+# Get the absolute path of the current directory
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 
 app = Flask(__name__)
-app.config['UPLOAD_FOLDER'] = 'uploads'
-app.config['FOLDERS'] = 'folders'
-db = TinyDB('data/query_history.json')
+app.config['UPLOAD_FOLDER'] = os.path.join(BASE_DIR, 'uploads')
+app.config['FOLDERS'] = os.path.join(BASE_DIR, 'folders')
+db = TinyDB(os.path.join(BASE_DIR, 'data', 'query_history.json'))
+
 # Create folders if they do not exist
 os.makedirs(app.config['UPLOAD_FOLDER'], exist_ok=True)
 os.makedirs(app.config['FOLDERS'], exist_ok=True)
-os.makedirs('data', exist_ok=True)
+os.makedirs(os.path.join(BASE_DIR, 'data'), exist_ok=True)
 
 # Initialize RAG components
 llm = ChatGroq(
