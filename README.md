@@ -1,6 +1,7 @@
 # Fin Rag
 
 Demo Video - https://youtu.be/uXKi_SympiE
+Prototype - https://finrag-1098773990453.asia-south1.run.app
 
 ## Features
 
