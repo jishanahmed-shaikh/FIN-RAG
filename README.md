@@ -1,5 +1,8 @@
-# 🏦 Fin RAG
+<div align="center">
+  # 🏦 Fin RAG
+</div>
 
+---
 <div align="center">
   <img src="FIN-RAG.jpg" alt="Fin RAG Logo" width="200" height="200">
   
