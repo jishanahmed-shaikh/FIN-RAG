@@ -298,9 +298,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 <br>
 
-[![⭐ Star this Repository](https://img.shields.io/badge/⭐_Star_this_Repository-FFD700?style=for-the-badge&logo=github&logoColor=black)](https://github.com/your-username/fin-rag)
-[![🚀 Try Live Demo](https://img.shields.io/badge/🚀_Try_Live_Demo-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](https://finrag-1098773990453.asia-south1.run.app)
-[![📧 Get Support](https://img.shields.io/badge/📧_Get_Support-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:support@finrag.com)
+[![⭐ Star this Repository](https://img.shields.io/badge/⭐_Star_this_Repository-FFD700?style=for-the-badge&logo=github&logoColor=black)](https://github.com/jishanahmed-shaikh/FIN-RAG)
+[![🚀 Try Live Demo](https://img.shields.io/badge/🚀_Try_Live_Demo-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](https://github.com/jishanahmed-shaikh/FIN-RAG)
+[![📧 Get Support](https://img.shields.io/badge/📧_Get_Support-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shaikhjishan255@gmail.com)
 
 <br>
 
