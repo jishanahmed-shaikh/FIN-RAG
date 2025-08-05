@@ -33,7 +33,7 @@
 
 | Technology | Purpose | Badge |
 |------------|---------|-------|
-| **Python** | Backend Language | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) |
+| **Python** | Backend Framework | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) |
 | **Flask** | Web Framework | ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white) |
 | **LangChain** | LLM Framework | ![LangChain](https://img.shields.io/badge/🦜_LangChain-1C3C3C?style=flat) |
 | **HuggingFace** | ML Models | ![HuggingFace](https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=flat&logo=huggingface&logoColor=black) |
