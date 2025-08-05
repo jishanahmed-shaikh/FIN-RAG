@@ -284,3 +284,70 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **HuggingFace** for state-of-the-art embeddings
 - **FAISS** for efficient vector search
 - **Google Cloud** for reliable hosting
+
+---
+
+<div align="center">
+
+## 🌟 **Transform Your Financial Document Analysis Today!** 🌟
+
+### *Powered by Cutting-Edge AI • Built for Financial Professionals • Deployed at Scale*
+
+<br>
+
+[![⭐ Star this Repository](https://img.shields.io/badge/⭐_Star_this_Repository-FFD700?style=for-the-badge&logo=github&logoColor=black)](https://github.com/your-username/fin-rag)
+[![🚀 Try Live Demo](https://img.shields.io/badge/🚀_Try_Live_Demo-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](https://finrag-1098773990453.asia-south1.run.app)
+[![📧 Get Support](https://img.shields.io/badge/📧_Get_Support-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:support@finrag.com)
+
+<br>
+
+### 💡 **"Revolutionizing how financial professionals interact with documents through AI"**
+
+<br>
+
+**🔥 Ready to revolutionize your document workflow?**  
+**🚀 Deploy Fin RAG in minutes, not hours!**  
+**💼 Join thousands of financial professionals already using AI-powered document analysis!**
+
+<br>
+
+---
+
+**Built with ❤️ by developers, for developers**
+
+---
+
+### 🌐 **Connect & Stay Updated**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jishanahmedshaikh)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/jishanarshaikh)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/518476056232198171)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/jishanahmedarshaikh)
+
+<br>
+
+### 🎯 **What's Next?**
+
+- 🔮 **AI-Powered Insights**: Advanced financial trend analysis
+- 📱 **Mobile App**: iOS & Android applications
+- 🌍 **Multi-Language**: Support for 50+ languages
+- 🔗 **API Marketplace**: Third-party integrations
+- 🏢 **Enterprise Edition**: Advanced security & compliance
+
+<br>
+
+---
+
+<img src="FIN-RAG.jpg" alt="Fin RAG" width="80" height="80">
+
+### **Fin RAG** - *Where Finance Meets AI*
+
+**© 2025 Fin RAG. Empowering Financial Intelligence Through AI.**
+
+*Made with 🧠 AI • Powered by ⚡ Innovation • Driven by 💼 Finance*
+
+---
+
+**⚡ Don't just read documents. Understand them. ⚡**
+
+</div>
