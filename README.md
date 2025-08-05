@@ -1,6 +1,6 @@
 <div align="center">
   
-  # 🏦 Fin RAG
+  # 🏦 FIN-RAG : Financial RAG System
 </div>
 
 <div align="center">
@@ -48,13 +48,13 @@ Fin RAG implements a sophisticated RAG (Retrieval-Augmented Generation) pipeline
 
 ```
 ┌─────────────────┐    ┌──────────────────┐    ┌─────────────────┐
-│   PDF Upload    │───▶│  Text Extraction │───▶│   Chunking &    │
+│   PDF Upload    │───▶│  Text Extraction │──▶│   Chunking &    │
 │   & Management  │    │   & Processing   │    │  Vectorization  │
 └─────────────────┘    └──────────────────┘    └─────────────────┘
                                                          │
 ┌─────────────────┐    ┌──────────────────┐    ┌─────────────────┐
-│  Response Gen   │◀───│   LLM Processing │◀───│  Vector Search  │
-│  & Formatting   │    │   (Groq/HF)     │    │    (FAISS)      │
+│  Response Gen   │◀───│   LLM Processing │◀──│  Vector Search  │
+│  & Formatting   │    │   (Groq/HF)      │    │   (FAISS)       │
 └─────────────────┘    └──────────────────┘    └─────────────────┘
 ```
 
@@ -80,8 +80,8 @@ Google Cloud SDK (for deployment)
 
 ```bash
 # Clone the repository
-git clone <repository-url>
-cd fin-rag
+git clone https://github.com/jishanahmed-shaikh/FIN-RAG.git
+cd FIN-RAG
 
 # Create virtual environment
 python -m venv venv
