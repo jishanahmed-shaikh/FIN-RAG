@@ -1,7 +1,7 @@
+# 🏦 Fin RAG
+
 <div align="center">
   <img src="FIN-RAG.jpg" alt="Fin RAG Logo" width="200" height="200">
-  
-# 🏦 Fin RAG
   
   **AI-Powered Financial Document Analysis & RAG System**
   
